@@ -75,15 +75,10 @@ Database
 ## Project Structure
 
 ```text
-.
 ├── main.tf
 ├── providers.tf
-├── variables.tf
-├── outputs.tf
-├── versions.tf
-├── terraform.tfvars
-├── README.md
-└── modules/
+├── state.tf
+└── README.md
 ```
 
 ---
