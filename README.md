@@ -88,7 +88,7 @@ Database
 Terraform performs the following steps:
 
 1. Creates the VPC.
-2. Creates six subnets across two Availability Zones (regardless of Region).
+2. Creates six subnets across two Availability Zones.
 3. Attaches an Internet Gateway.
 4. Allocates an Elastic IP.
 5. Creates a NAT Gateway.
